@@ -67,7 +67,8 @@ Data analysis project focused on extracting business insights and discovering sa
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hossam-data/hossam-data/output/github-contribution-grid-snake-dark.svg"
+       alt="Contribution Snake" />
 </p>
 
 ---
@@ -79,14 +80,6 @@ Data analysis project focused on extracting business insights and discovering sa
 
 <a href="https://www.linkedin.com/in/hossam-mohamed-527b61263/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hossamx__3/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/1hossamx1/">
-  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="mailto:hossammohamed.data@gmail.com">
