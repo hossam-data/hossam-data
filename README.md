@@ -72,16 +72,29 @@ Data analysis project focused on extracting business insights and discovering sa
 
 ---
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/hossam-mohamed-527b61263/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/hossam-data">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+
+<a href="https://www.instagram.com/hossamx__3/?hl=en">
+  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
+<a href="https://www.facebook.com/1hossamx1/">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:hossammohamed.data@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
+
 
 ---
 
