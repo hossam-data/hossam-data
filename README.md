@@ -56,17 +56,23 @@ Data analysis project focused on extracting business insights and discovering sa
 ---
 
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=hossam-data&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats" />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=hossam-data&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Hossam GitHub Stats"
+  />
 
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam-data&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages" />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=hossam-data&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
+
 
 
 ---
