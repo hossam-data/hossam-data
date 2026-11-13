@@ -75,10 +75,10 @@ Data analysis project focused on extracting business insights and discovering sa
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/hossam-mohamed-527b61263/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hossam-data">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 </p>
